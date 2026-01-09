@@ -29,4 +29,9 @@ The events of CardTown are unpredictable twists of fate that can elevate your ki
 
 In a tavern at the edge of the universe, an old stranger holds out a deck of cards to you. Your journey into the world of CardTown begins now. What kingdom will you build? What challenges will you overcome? And what legend will you leave behind? The fate of your settlement is in your hands, traveler. Grab your maps and start building your story...
 
-If you wish to support the creator in his journey of creating worlds, you can make an offering:
+## Installation instructions
+To enter the world of CardTown, follow these simple steps. The path is open to every adventurer!
+
+1. Download Archive: Get the knowledge scroll (ZIP archive) using the button below.
+2. Unpack the Treasure: Extract the contents of the archive to anywhere in your kingdom.
+3. Start the Game: Find the dragon seal file (CardTown.exe) and open the gate to the new world.
